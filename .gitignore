@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Screenshots and temporary files
+*.png
+*.jpg
+*.jpeg
+error_screenshot.png
+wikipedia_earth_oxygen.png
+wikipedia_earth_full.png
+
+# OS
+.DS_Store
+Thumbs.db
+
